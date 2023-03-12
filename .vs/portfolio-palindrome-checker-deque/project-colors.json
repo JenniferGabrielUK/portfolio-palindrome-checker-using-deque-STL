@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b7b18a3-9273-4eaf-8090-50680563dd93": {
+      "ProjectGuid": "3b7b18a3-9273-4eaf-8090-50680563dd93",
+      "DisplayName": "portfolio-palindrome-checker-deque",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
